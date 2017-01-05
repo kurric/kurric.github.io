@@ -3,6 +3,9 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-01-04 17:33:51 +0100
 categories: jekyll update
+excerpt: Loli!
+description: We can easily add meta description in Jekyll post. It can generate more visitors for our blog through SERP(Search Engine Result Pages) & indirectly improve SEO.
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
